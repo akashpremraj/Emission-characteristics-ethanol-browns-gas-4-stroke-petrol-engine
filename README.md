@@ -3,7 +3,7 @@
 **Author:** Akash P Raj (USN: 4SN16ME012)  
 **Department:** Mechanical Engineering, Srinivas Institute of Technology, Mangaluru  
 **Guide:** Prof. Sudheendra H N (Assistant Professor)  
-**Duration:** June 11 – July 15, 2018 (1 month)
+**Duration:** June 11 – July 15, 2019 (1 month)
 
 ---
 
